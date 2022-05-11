@@ -124,4 +124,4 @@ def postHealthReport(name):
 
 
 if __name__ == '__main__':
-    print(postHealthReport('34B3180226')) #学号
+    print(postHealthReport('')) #学号
